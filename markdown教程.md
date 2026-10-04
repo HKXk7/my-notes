@@ -1,4 +1,6 @@
-[markdown教程.md](https://github.com/user-attachments/files/33022994/markdown.md)
+[markdown教程.md](https://github.com/user-attachments/files/33023046/markdown.md)
+
+
 ---
 date: 2026-10-04
 aliases:
